@@ -7,21 +7,6 @@ body {
   background-color: rgb(252, 252, 252);
 }
 
-h2,
-h1 {
-  font-family: "verdana", sans-serif;
-  margin: 0;
-  font-weight: 600;
-}
-
-p {
-  margin: 0;
-}
-
-div {
-  margin: 0.2rem 1rem;
-}
-
 .info {
   display: flex;
   justify-content: space-between;
@@ -38,6 +23,21 @@ img {
 
 img:hover {
   box-shadow: 0 0 5px 1px rgb(34, 33, 33);
+}
+
+h2,
+h1 {
+  font-family: "verdana", sans-serif;
+  margin: 0;
+  font-weight: 600;
+}
+
+p {
+  margin: 0;
+}
+
+div {
+  margin: 0.2rem 1rem;
 }
 
 ul {
